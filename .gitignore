@@ -5,3 +5,6 @@
 /bin*
 /.vs*
 /obj
+/.config
+/Properties/PublishProfiles
+/Menu.csproj.user
